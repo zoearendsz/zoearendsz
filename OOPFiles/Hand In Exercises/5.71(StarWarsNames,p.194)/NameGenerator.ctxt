@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=NameGeneratorfirstName\ NameGeneratorlastName\ NameGeneratormotherMaidenName\ NameGeneratorcityOfBirth
+comment0.target=NameGenerator(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=void\ printSWName()
+numComments=2
