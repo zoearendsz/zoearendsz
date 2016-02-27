@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=numberOfCivilServants
+comment0.target=TownHall(int)
+comment1.params=civilServant
+comment1.target=void\ addCivilServant(CivilServant)
+comment2.params=service\ civilServantIndices
+comment2.target=void\ addService(Service,\ int[])
+comment3.params=serviceName
+comment3.target=double\ averageDurationForService(java.lang.String)
+numComments=4

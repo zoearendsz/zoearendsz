@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=fast
+comment0.target=CivilServant(boolean)
+comment1.params=service
+comment1.target=void\ addService(Service)
+comment2.params=serviceName
+comment2.target=Service\ findService(java.lang.String)
+comment3.params=serviceName
+comment3.target=boolean\ canPerform(java.lang.String)
+comment4.params=serviceName
+comment4.target=int\ performService(java.lang.String)
+numComments=5

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ranking()
+comment1.params=name\ townHall
+comment1.target=void\ addTownHall(java.lang.String,\ TownHall)
+comment2.params=serviceName
+comment2.target=void\ printAverageDurationForService(java.lang.String)
+numComments=3
